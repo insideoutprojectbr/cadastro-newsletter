@@ -1,14 +1,16 @@
 html,
 body {
   height: 50%;
-  background-color: #c8a2c8;
-  color:#ffffff;
-  font-family:verdana;
-
+  background-color: #723e72;
+  color: #FFF;
+  font-family:'Open Sans', verdana;
 }
 
-#mc-embedded-subscribe-form {
-    width:50%;
 
+h1, h3{
+    text-align: center;
 }
 
+input {
+    color: #000;
+}
